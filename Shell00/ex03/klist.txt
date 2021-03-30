@@ -1,0 +1,6 @@
+Credentials cache: API:C719E4E0-9388-4D08-A7C7-11555498FC45
+        Principal: lpicques@42.FR
+
+  Issued                Expires               Principal
+Mar  8 14:24:09 2021  Mar 15 14:24:09 2021  krbtgt/42.FR@42.FR
+Mar  8 14:24:10 2021  Mar 15 14:24:09 2021  HTTP/student-storage-2.42.fr@42.FR
